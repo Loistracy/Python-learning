@@ -23,7 +23,3 @@
 #print(course.upper())
 
 #print ("lois".upper())
-
-for X in range (0,5):
-X++
-print(X)
